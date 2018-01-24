@@ -4,3 +4,4 @@
       flexbox
       native-Javascript
       css-animation
+![Image alt](http://joxi.ru/p27Kedds0JOK32)
